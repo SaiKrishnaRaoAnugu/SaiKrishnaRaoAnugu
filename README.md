@@ -17,7 +17,7 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🧑‍💻 About Me
 
-I'm an **AI Software Engineer** based in Siegen, Germany 🇩🇪 with **1.5+ years** of hands-on experience designing, building, and shipping production-ready **LLM applications**, **AI-powered systems**, and **full-stack platforms**. I take ideas from prototype to production — fast.
+I'm an **AI Software Engineer** based in Siegen, Germany 🇩🇪 with **1.5+ years** of hands-on experience designing, building, and shipping production-ready **LLM applications**, **AI-powered systems**, and **full-stack platforms**. I take ideas from prototype to production.
 
 - 🤖 **Currently building:** Production AI features,LLM integrations and Full stack development at A-Team Event GmbH
 - 🎓 **Academic background:** M.Sc. Mechatronics with a focus on Artificial Intelligence @ Universität Siegen
